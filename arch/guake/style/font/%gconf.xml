@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="style" mtime="1495698644" type="string">
+		<stringvalue>mononoki 14</stringvalue>
+	</entry>
+	<entry name="palette_name" mtime="1496993901" type="string">
+		<stringvalue>Custom</stringvalue>
+	</entry>
+	<entry name="palette" mtime="1496993901" type="string">
+		<stringvalue>#000000000000:#cccc00000000:#86e3e5bd2d07:#c4c4a0a00000:#5e87a52cffff:#757550507b7b:#060698209a9a:#d3d3d7d7cfcf:#555557575353:#efef29292929:#8a8ae2e23434:#fcfce9e94f4f:#72729f9fcfcf:#adad7f7fa8a8:#3434e2e2e2e2:#eeeeeeeeecec:#ffffffffffff:#000000000000</stringvalue>
+	</entry>
+	<entry name="allow_bold" mtime="1500544280" type="bool" value="true"/>
+</gconf>

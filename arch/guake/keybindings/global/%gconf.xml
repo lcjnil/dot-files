@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="show_hide" mtime="1493177478" type="string">
+		<stringvalue>&lt;Alt&gt;Escape</stringvalue>
+	</entry>
+</gconf>
