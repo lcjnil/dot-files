@@ -1,0 +1,12 @@
+{
+  "localaddr": ":5944",
+  "remoteaddr": "v4.lcj.me:9443",
+  "crypt": "none",
+  "mode": "fast",
+  "mtu": 1350,
+  "datashard": 10,
+  "parityshard": 0,
+  "sndwnd": 512,
+  "rcvwnd": 128,
+  "nocomp": true
+}
